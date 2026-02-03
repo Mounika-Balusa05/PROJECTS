@@ -17,4 +17,5 @@
             Tech: Chart.js + React + Node.js + WebSocket
 - project 3:
     - core frontend 
-        - not decided
+        - see deepseek chat on 3/2/2026
+
