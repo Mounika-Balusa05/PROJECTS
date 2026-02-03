@@ -15,3 +15,6 @@
             News feed integration
             APIs: Alpha Vantage, Finnhub, Yahoo Finance
             Tech: Chart.js + React + Node.js + WebSocket
+- project 3:
+    - core frontend 
+        - not decided
